@@ -63,30 +63,6 @@ improving my skills by building small practical projects.
 
 ---
 
-## 📈 Frontend Developer Roadmap (Beginner → Job-Ready)
-
-### 🔹 Phase 1: Basics
-- HTML (semantic tags, forms)
-- CSS (Flexbox, Grid, Responsive Design)
-- JavaScript basics (DOM, events)
-
-### 🔹 Phase 2: Skill Building
-- Advanced JavaScript
-- Tailwind CSS mastery
-- Build multiple frontend projects
-
-### 🔹 Phase 3: Framework
-- React.js basics
-- Components, props & state
-- Small React projects
-
-### 🔹 Phase 4: Job Preparation
-- GitHub portfolio polishing
-- Resume & LinkedIn optimization
-- Frontend interview practice
-
----
-
 ## 🔗 Connect With Me
 
 - 📧 Email: Smritikumari2024@gmail.com  
